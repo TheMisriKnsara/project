@@ -1,0 +1,60 @@
+
+#home
+{
+    background-image:url("i5.jpg") ;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.logo
+{
+    color: coral;
+    margin-top: 10px;
+    margin-left: 80px;
+    padding-left: 20px;
+    font-size: 35px;
+    border-radius: 50%;
+    border: 2px gray solid;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+
+    
+}
+#home1
+{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: burlywood;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+#home2
+{
+    display: flex;
+    list-style-type: none;
+    color:#ffffff;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding-left: 1200px;
+    font-size: 30px;
+    padding-top: 10px;
+    
+}
+a
+{
+    text-decoration: none;
+    color: rgb(231, 208, 200);
+    list-style-type: none;
+}
+#menu
+{
+    background-image: url("i3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    height: 15vh;
+    margin-top: 0%;
+    padding-top: 0%;
+}
